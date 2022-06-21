@@ -1,0 +1,5 @@
+presence de lac sous forme de liste au même titre que enFeu
+parametre de densite d'arbre par case
+presence d'un vecteur vent qui multiplierait la probabilite dans le sens du vecteur et qui la diviserait dans l'autre sens
+!optimisation : remplacer l'objet foret par un objet arbre (plus de mise en memoire mais moins d'acces par .contains())
+probabilite de bruler completement

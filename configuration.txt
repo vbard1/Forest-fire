@@ -1,0 +1,10 @@
+//Fichier de configuration : une coordonnee de depart de feu par ligne
+[largeur] = 27
+[hauteur] = 27
+[probabilite de propagation] = 0.5
+[frequence simulation] = 5
+[lignes (x/y)] :
+15/10
+0/0
+1/2
+3/5
