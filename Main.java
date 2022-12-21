@@ -5,7 +5,7 @@ import java.awt.*;
 public class Main {
     public static void main(String[] args) {
         Forest forest = creationForest(
-                "C:/Users/_ghost_/One drive a jour/OneDrive - INSA Lyon/coding adventure/SIMULATION FEU DE FORÊT - CIRIL GROUP/configuration.txt");
+                "configuration.txt");
         UI affichage = new UI(forest);
         System.out.println(forest.toString());
 
